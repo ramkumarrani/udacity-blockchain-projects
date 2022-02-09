@@ -1,5 +1,6 @@
 # Decentralized Apps (DApps) - Star Notary
-![test image size]<img src="https://fullpath/assets/yourgif.gif" width="200" height="200">
+
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project2/images/Star-Notary1.jpg" width="200" height="200" />
 
 ## Submission Information
 1. Truffle version and OpenZeppelin version used in the project: Truffle v5.4.30 (core: 5.4.30); Openzeppelin 4.4.2
