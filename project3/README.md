@@ -23,7 +23,9 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 ### UML Diagrams
 As part of the submissions, the following diagrams have been created: Activity diagram, Sequence diagram, State diagram, and Data model
 
+#### Activity Diagram
 
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project2/images/Star-Notary1.jpg" width="200" height="200" />
 
 
 
