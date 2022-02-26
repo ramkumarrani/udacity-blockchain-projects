@@ -1,5 +1,7 @@
 # Ethereum Dapp for Tracking Items through Supply Chain
 
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/EthereumCoffeeSupplyChain.jpg" width="300" height="200" />
+
 # Project Submission
 [UML Diagrams](#uml-diagrams)
 
