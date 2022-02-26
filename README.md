@@ -3,6 +3,6 @@ Udacity blokchain nanodegree projects
 
 
 # Projects
-project 2:
+[project 2: Build CryptoStar DAPP on Ethereum](
 
 project 3:
