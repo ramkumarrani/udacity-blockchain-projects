@@ -3,7 +3,7 @@
 # Project Submission
 [UML Diagrams](#uml-diagrams)
 
-[Package Configuration](#package-configuration)
+[Libraries Used](#libraries-used)
 
 [Truffle Version](#truffle-version)
 
@@ -35,11 +35,15 @@ As part of the submissions, the following diagrams have been created: Activity d
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/CoffeeSupplyChainDataModel.png" />
 
-### Package Configuration
+### Libraries Used
 
 The following dependencies are defined for the project
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/PackageConfig.PNG" />
+
+Rationale for using libraries
+
+
 
 ### Truffle Version
 
