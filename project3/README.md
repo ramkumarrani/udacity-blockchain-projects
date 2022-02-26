@@ -1,19 +1,5 @@
 # Ethereum Dapp for Tracking Items through Supply Chain
 
-## Title
-
-### Place 1
-
-Hello, this is some text to fill in this, [here](#place-2), is a link to the second place.
-
-### Place 2
-
-Place one has the fun times of linking here, but I can also link back [here](#place-1).
-
-### Place's 3: other example
-
-Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
-
 # Project Submission
 [UML Diagrams](#uml-diagrams)
 
@@ -55,6 +41,6 @@ Steps to run Unit Testing
 2. Run truffle command: `truffle develop`.  This will run truffle local environment
 3. Run unit test command: `test`
 
-Unit test result:
+<b>Unit test result</b>
 
-
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/UnitTestResult.PNG" />
