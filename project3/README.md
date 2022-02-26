@@ -9,6 +9,8 @@
 
 [DAPP Unit Testing](#dapp-unit-testing)
 
+[Deploy on Rinkeby](#deploy-on-rinkeby-test-network)
+
 
 ### UML Diagrams
 As part of the submissions, the following diagrams have been created: Activity diagram, Sequence diagram, State diagram, and Data model
@@ -44,7 +46,6 @@ Solidity|0.4.24 (solc-js)
 Node|v14.17.6
 Web3.js|v1.5.3
 
-
 ### DAPP Unit Testing
 
 Steps to run Unit Testing
@@ -57,3 +58,4 @@ Steps to run Unit Testing
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/UnitTestResult.PNG" />
 
+### Deploy on Rinkeby Test Network
