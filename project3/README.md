@@ -4,6 +4,12 @@
   <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/EthereumCoffeeSupplyChain.jpg" width="300" height="200" />
 </p>
 
+# Summary
+
+The purpose of this project is to create a DAPP Supply Chain solution backed by the Ethereum blockchain platform.  For this project, I have architected smart contracts that manage specific user permission controls as well as contracts that track and verify a product's authenticity.  At the outset, there are 4 actors involved in the project: Harvester, Distributor, Retailer, and Consumer.  The DAPP tracks the authenticity of the product at each stage when the product moves from one actor to another.
+
+The project folder: `coffee/`
+
 # Project Submission
 [UML Diagrams](#uml-diagrams)
 
