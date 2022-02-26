@@ -9,7 +9,7 @@
 
 [DAPP Unit Testing](#dapp-unit-testing)
 
-[Deploy on Rinkeby](#deploy-on-rinkeby-test-network)
+[Deploy on Rinkeby](#deploying-dapp-on-rinkeby-test-network)
 
 
 ### UML Diagrams
@@ -58,4 +58,11 @@ Steps to run Unit Testing
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/UnitTestResult.PNG" />
 
-### Deploy on Rinkeby Test Network
+### Deploying DAPP on Rinkeby Test Network
+
+#### Steps to deploy DAPP on Rinkeby Test Network
+
+1. Set up your account on Infura.io and obtain Rinkeby Test network endpoint URL
+2. Set up your MetaMask wallet and configure it for Rinkeby Test network
+3. Configure your truffle configuration file for Rinkeby test network - including seed values
+4. Run following command to deploy DAPP on Rinkeby network: `truffle migrate --reset --network rinkeby`
