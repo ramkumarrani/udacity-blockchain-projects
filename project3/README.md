@@ -11,6 +11,8 @@
 
 [Deploy DAPP on Rinkeby](#deploying-dapp-on-rinkeby-test-network)
 
+[Running Front End Application](#running-front-end-application)
+
 
 ### UML Diagrams
 As part of the submissions, the following diagrams have been created: Activity diagram, Sequence diagram, State diagram, and Data model
@@ -75,3 +77,4 @@ The following shows deployment results:
 
 URL: https://rinkeby.etherscan.io/address/0x8d1d280b9de0dd3632373ce891be3cfd2cc0ffd0
 
+### Running Front End Application
