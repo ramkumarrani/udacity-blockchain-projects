@@ -43,7 +43,10 @@ The following dependencies are defined for the project
 
 Rationale for using libraries
 
-
+* truffle: Truffle is Ethereum's development framework that makes it easy to compile, migrate, and test smart contracts into Ethereum networks. Here, I have used `truffle` to compile, migrate, and test smart contracts on both local and Rinkeby networks
+* truffle-assertions: a truffle library that supports functions for solidity assertions in unit test cases.  Here, I have it to test if my contracts correctly emitted events as expected
+* truffle-hdwallet-provider: HD Wallet-enabled Web3 provider. I have used to sign transactions for addresses derived from my 12-word mnemonic
+* web3: This is a general-purpose JS library that allows you to interact with Ethereum networks.  I have used it to interact with a local or remote ethereum node using HTTP
 
 ### Truffle Version
 
