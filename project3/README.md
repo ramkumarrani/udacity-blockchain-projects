@@ -27,6 +27,8 @@ As part of the submissions, the following diagrams have been created: Activity d
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/CoffeeSupplyChainActivity.PNG" />
 
+#### Sequence Diagram
 
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/CoffeeSupplyChainSequence.png" />
 
 ### Package Configuration
