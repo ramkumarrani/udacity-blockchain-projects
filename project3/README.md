@@ -52,5 +52,5 @@ The following dependencies are defined for the project
 Steps to run Unit Testing
 
 1. Open a terminal window and go to project directory
-2. Run truffle command: <mark>truffle develop</mark>.  This will run truffle local environment
+2. Run truffle command: `truffle develop`.  This will run truffle local environment
 3. 
