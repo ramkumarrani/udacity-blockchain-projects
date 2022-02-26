@@ -5,6 +5,8 @@
 
 [Package Configuration](#package-configuration)
 
+[Truffle Version](#truffle-version)
+
 [DAPP Unit Testing](#dapp-unit-testing)
 
 
@@ -33,6 +35,16 @@ The following dependencies are defined for the project
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/PackageConfig.PNG" />
 
+### Truffle Version
+
+Component|Version Details
+:-------:|:--------------
+Truffle|v5.4.30 (core: 5.4.30)
+Solidity|0.4.24 (solc-js)
+Node|v14.17.6
+Web3.js|v1.5.3
+
+
 ### DAPP Unit Testing
 
 Steps to run Unit Testing
@@ -44,3 +56,4 @@ Steps to run Unit Testing
 <b>Unit test result</b>
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/UnitTestResult.PNG" />
+
