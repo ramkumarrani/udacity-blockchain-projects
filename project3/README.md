@@ -40,3 +40,7 @@ As part of the submissions, the following diagrams have been created: Activity d
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/CoffeeSupplyChainDataModel.png" />
 
 ### Package Configuration
+
+The following dependencies are defined for the project
+
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/PackageConfig.PNG" />
