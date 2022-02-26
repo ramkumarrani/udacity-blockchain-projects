@@ -66,3 +66,7 @@ Steps to run Unit Testing
 2. Set up your MetaMask wallet and configure it for Rinkeby Test network
 3. Configure your truffle configuration file for Rinkeby test network - including seed values
 4. Run following command to deploy DAPP on Rinkeby network: `truffle migrate --reset --network rinkeby`
+
+#### Deployment Results
+
+The following shows deployment results:
