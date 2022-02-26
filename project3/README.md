@@ -9,7 +9,7 @@
 
 [DAPP Unit Testing](#dapp-unit-testing)
 
-[Deploy on Rinkeby](#deploying-dapp-on-rinkeby-test-network)
+[Deploy DAPP on Rinkeby](#deploying-dapp-on-rinkeby-test-network)
 
 
 ### UML Diagrams
