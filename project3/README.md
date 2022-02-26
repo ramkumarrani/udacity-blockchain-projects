@@ -13,6 +13,8 @@
 
 [Running Front End Application](#running-front-end-application)
 
+[Using IPFS](#using-ipfs)
+
 
 ### UML Diagrams
 As part of the submissions, the following diagrams have been created: Activity diagram, Sequence diagram, State diagram, and Data model
@@ -85,3 +87,6 @@ Steps to run Front End Application
 2. Transition to project/app directory
 3. Run the command `npm run dev`
 
+### Using IPFS
+
+IPFS is not used for this project
