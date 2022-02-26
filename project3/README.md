@@ -78,3 +78,10 @@ The following shows deployment results:
 URL: https://rinkeby.etherscan.io/address/0x8d1d280b9de0dd3632373ce891be3cfd2cc0ffd0
 
 ### Running Front End Application
+
+Steps to run Front End Application
+
+1. Run DAPP on local network (see above steps)
+2. Transition to project/app directory
+3. Run the command `npm run dev`
+
