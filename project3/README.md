@@ -25,7 +25,7 @@ As part of the submissions, the following diagrams have been created: Activity d
 
 #### Activity Diagram
 
-<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project2/images/Star-Notary1.jpg" width="200" height="200" />
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/CoffeeSupplyChainActivity.PNG" />
 
 
 
