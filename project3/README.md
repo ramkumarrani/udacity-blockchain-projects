@@ -15,12 +15,15 @@ Place one has the fun times of linking here, but I can also link back [here](#pl
 Place one has the fun times of linking here, but I can also link back [here](#places-3-other-example).
 
 # Project Submission
-[UML Diagrams](#uml-diagram)
+[UML Diagrams](#uml-diagrams)
 
 [Package Configuration](#package-configuration)
 
 
-### UML Diagram
+### UML Diagrams
+As part of the submissions, the following diagrams have been created: Activity diagram, Sequence diagram, State diagram, and Data model
+
+
 
 
 
