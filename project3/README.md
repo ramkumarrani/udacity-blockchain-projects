@@ -94,7 +94,9 @@ The following shows deployment results:
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project3/images/RinkebyDeploymentResult.PNG" />
 
-URL: https://rinkeby.etherscan.io/address/0x8d1d280b9de0dd3632373ce891be3cfd2cc0ffd0
+Contract Address: 0x8d1d280b9de0dd3632373ce891be3cfd2cc0ffd0
+
+Rinkeby etherscan: https://rinkeby.etherscan.io/address/0x8d1d280b9de0dd3632373ce891be3cfd2cc0ffd0
 
 ### Running Front End Application
 
