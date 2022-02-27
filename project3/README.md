@@ -25,6 +25,8 @@ The project folder: `coffee/`
 
 [Using IPFS](#using-ipfs)
 
+[Using this project in new environment](#using-this-project-in-new-environment)
+
 
 ### UML Diagrams
 As part of the submissions, the following diagrams have been created: Activity diagram, Sequence diagram, State diagram, and Data model
@@ -109,3 +111,5 @@ Steps to run Front End Application
 ### Using IPFS
 
 IPFS is not used for this project
+
+### Using this Project in New Environment
