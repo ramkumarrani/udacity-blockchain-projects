@@ -10,7 +10,7 @@ The purpose of this project is to create a DAPP Supply Chain solution backed by 
 
 The project folder: `coffee/`
 
-# Project Submission
+# Contents
 [UML Diagrams](#uml-diagrams)
 
 [Libraries Used](#libraries-used)
