@@ -1,4 +1,4 @@
-# Ethereum Dapp for Tracking Items through Supply Chain
+# FlightSurety
 
 <p align="center">
   <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project4/images/airplane.jpg" width="300" height="200" />
