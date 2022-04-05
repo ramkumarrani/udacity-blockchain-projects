@@ -40,3 +40,7 @@ I implemented this project by following the methodologies stated below:
     * Upon startup, 20+ oracles are registered and their assigned indexes are persisted in memory (optional)
     * Update flight status requests from client Dapp result in OracleRequest event emitted by Smart Contract that is captured by server
     * Server will loop through all registered oracles, identify those oracles for which the OracleRequest event applies, and respond by calling into FlightSuretyApp contract with different random status code
+
+
+## Testing FlightSurety DApp
+
