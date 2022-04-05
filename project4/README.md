@@ -46,4 +46,4 @@ I implemented this project by following the methodologies stated below:
 
 JavaScript and truffle testing frameworks were used to run unit tests.  You will invoke `truffle test` to run these tests.  My test outputs are:
 
-<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project4/images/airplane.jpg" />
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project4/images/UnitTest-flightSurety.png" />
