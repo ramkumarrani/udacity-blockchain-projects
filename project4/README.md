@@ -72,6 +72,20 @@ To view the dApp:
 
 `http://localhost:8000/`
 
+## Install and Run Back End
+
+You can run following commands to install server side:
+
+To deploy the smart contract locally with 50 accounts, each with 5000 Ether:
+`ganache-cli -m <secret key> -a 50 -e 5000`
+`truffle migrate`
+
+To run unit test server side dApp:
+`truffle test ./test/flightSurety.js`
+
+To run the oracle:
+`npm run server`
+
 ## Testing FlightSurety DApp
 
 JavaScript and truffle testing frameworks were used to run unit tests.  You will invoke `truffle test` to run these tests.  My test output:
