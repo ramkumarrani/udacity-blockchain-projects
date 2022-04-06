@@ -61,32 +61,35 @@ This project has been created using following blockchain components:
 
 To build the application, you can run following commands: `npm install` `truffle compile`
 
-## Install and Run Front End
+## Develop Client
 
-You can run following commands to install front end UI:
+To run truffle tests:
+
+`truffle test ./test/flightSurety.js`
+`truffle test ./test/oracles.js`
+
+To use the dapp:
 
 `truffle migrate`
 `npm run dapp`
 
-To view the dApp:
+To view dapp:
 
-`http://localhost:8000/`
+`http://localhost:8000`
 
-## Install and Run Back End
+## Develop Server
 
-You can run following commands to install server side:
-
-To deploy the smart contract locally with 50 accounts, each with 5000 Ether:
-`ganache-cli -m <secret key> -a 50 -e 5000`
-`truffle migrate`
-
-To run unit test server side dApp:
-`truffle test ./test/flightSurety.js`
-
-To run oracles:
 `npm run server`
+`truffle test ./test/oracles.js`
 
-## Testing FlightSurety DApp
+## Deploy
+
+To build dapp for prod:
+`npm run dapp:prod`
+
+Deploy the contents of the ./dapp folder
+
+## Unit Testing FlightSurety DApp
 
 JavaScript and truffle testing frameworks were used to run unit tests.  You will invoke `truffle test` to run these tests.  My test output:
 
