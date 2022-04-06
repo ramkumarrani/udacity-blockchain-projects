@@ -83,7 +83,7 @@ To deploy the smart contract locally with 50 accounts, each with 5000 Ether:
 To run unit test server side dApp:
 `truffle test ./test/flightSurety.js`
 
-To run the oracle:
+To run oracles:
 `npm run server`
 
 ## Testing FlightSurety DApp
