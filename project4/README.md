@@ -52,5 +52,5 @@ JavaScript and truffle testing frameworks were used to run unit tests.  You will
 
 The following is the dApp UI
 
-<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project4/images/UnitTest-flightSurety.png" />
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project4/images/FlightSuretyUI1.PNG" />
 
