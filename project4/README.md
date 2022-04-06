@@ -41,6 +41,36 @@ I implemented this project by following the methodologies stated below:
     * Update flight status requests from client Dapp result in OracleRequest event emitted by Smart Contract that is captured by server
     * Server will loop through all registered oracles, identify those oracles for which the OracleRequest event applies, and respond by calling into FlightSuretyApp contract with different random status code
 
+## Project Folder Structure
+
+This repository Contains:
+
+* contracts: Smart Contract folder --> Consists of 2 Contracts: One for data persistence and another for App logic
+* test: Mocha-Chai based unit testing JS scripts
+* src/dapp: Front end Javascript / Web3.js based dApp.  This is invoked using webpack framework
+* src/server: Back end node.js server app.  This is invoked using webpack framework
+
+## Project Installations
+
+This project has been created using following blockchain components:
+
+* Truffle v5.4.30
+* Solidity 0.8.11
+* Node 14.17.6
+* web3.js 1.5.3
+
+To build the application, you can run following commands: `npm install` `truffle compile`
+
+## Install and Run Front End
+
+You can run following commands to install front end UI:
+
+`truffle migrate`
+`npm run dapp`
+
+To view the dApp:
+
+`http://localhost:8000/`
 
 ## Testing FlightSurety DApp
 
