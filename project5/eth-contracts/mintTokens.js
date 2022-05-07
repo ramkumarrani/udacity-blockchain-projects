@@ -1,7 +1,7 @@
 // this script is used to mint tokens
 const Web3 = require("web3");
 const HDWalletProvider = require('truffle-hdwallet-provider');
-const infuraKey = "52e18f85e4c14196acc24099de5ce295";
+const infuraKey = "52e....";
 
 const Proof = require("../zokrates/code/square/proof.json");
 
