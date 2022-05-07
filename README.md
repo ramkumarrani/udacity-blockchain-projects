@@ -7,4 +7,4 @@ Udacity blokchain nanodegree projects
 
 [Project 3: Ethereum Dapp for Tracking Items through Supply Chain](https://github.com/ramkumarrani/udacity-blockchain-projects/tree/master/project3)
 
-[Project 3: FlightSurety](https://github.com/ramkumarrani/udacity-blockchain-projects/tree/master/project4)
+[Project 4: FlightSurety](https://github.com/ramkumarrani/udacity-blockchain-projects/tree/master/project4)
