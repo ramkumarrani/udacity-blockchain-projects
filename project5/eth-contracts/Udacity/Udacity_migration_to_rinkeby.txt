@@ -1,0 +1,59 @@
+Starting migrations...
+======================
+> Network name:    'rinkeby'
+> Network id:      4
+> Block gas limit: 30000000 (0x1c9c380)
+
+
+1_initial_migration.js
+======================
+
+   Deploying 'Migrations'
+   ----------------------
+   > transaction hash:    0x9898e1ed34e43515678a17d962b495705ef78f7a686f819a0361d9c2ed5b56ec
+   > Blocks: 0            Seconds: 8
+   > contract address:    0xdC09AB19F7Fa5d12e0fFd96613cb12986Fa0846d
+   > block number:        10660537
+   > block timestamp:     1652318236
+   > account:             0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47
+   > balance:             1.64301036346720231
+   > gas used:            244640 (0x3bba0)
+   > gas price:           2.500000013 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00061160000318032 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.00061160000318032 ETH
+
+
+2_nft.js
+========
+
+   Deploying 'ERC721MintableComplete'
+   ----------------------------------
+   > transaction hash:    0x7789127d798c81fa8d0184605f30138359b68034bdf8ec99e71d4756baeb0687
+   > Blocks: 1            Seconds: 12
+   > contract address:    0x1D8Bc845195a4Bc5022B745e024b7D0601347a1a
+   > block number:        10660539
+   > block timestamp:     1652318266
+   > account:             0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47
+   > balance:             1.635208293426631546
+   > gas used:            3075060 (0x2eebf4)
+   > gas price:           2.500000013 gwei
+   > value sent:          0 ETH
+   > total cost:          0.00768765003997578 ETH
+
+
+   > Saving migration to chain.
+   > Saving artifacts
+   -------------------------------------
+   > Total cost:     0.00768765003997578 ETH
+
+
+Summary
+=======
+> Total deployments:   2
+> Final cost:          0.0082992500431561 ETH
