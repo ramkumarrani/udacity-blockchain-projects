@@ -11,7 +11,10 @@ This is a Decentralized App used to manage Real Estate from house owner's point 
 
 This repository consists of:
 
-
+* Smart contracts
+* ZoKrates folder to manage title privacy
+* Mocha unit testing
+* OpenSea listing
 
 # Project Resources
 
