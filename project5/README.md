@@ -49,6 +49,14 @@ For development, run following commands:
 * rename verifier.sol to Verifier.sol
 * copy Verifier.sol to contracts folder: eth-contracts/contracts
 
+## Contract Deployment on Rinkeby
+
+Run following command to deploy Smart contract on Rinkeby test public network: `truffle migrate --network rinkeby`
+
+The following gives details on Rinkeby deployed contracts:
+
+
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
