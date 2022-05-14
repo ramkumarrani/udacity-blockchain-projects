@@ -58,8 +58,23 @@ Run following command to deploy Smart contract on Rinkeby test public network: `
 The following gives details on Rinkeby deployed contracts:
 
 ```
-ramkumar rani
-i am good
+Deploying 'RRERC721Token'
+-------------------------
+transaction hash:    0x24cf772dcbf83d51d61ed8445777bcf07e07a13a8ffc0622a234cc834b7edd46
+contract address:    0xAC03af1Bf77C0ab007ba553366E0f3267f6DA67F
+account:             0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47
+
+Deploying 'Verifier'
+--------------------
+transaction hash:    0x7c176887d3fa29611c72e6e6d6f9e10efd2cd2cdc55fb1c2ecb31a553d24c63a
+contract address:    0x34Fab9C775497906DCDDD8e18764f00f8EAcc393
+account:             0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47
+
+Deploying 'SolnSquareVerifier'
+------------------------------
+transaction hash:    0x45eec427ae5a0dab28b40cb7421b21d506fecda4f2dbf65035b9a8c57978b479
+contract address:    0xe93d81C94e2f431061b8DA1D4D6C3d5A67d5510E
+account:             0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47
 ```
 
 # Project Resources
