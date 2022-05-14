@@ -16,6 +16,21 @@ This repository consists of:
 * Mocha unit testing
 * OpenSea listing
 
+# Project Implementation
+
+## Project Installations
+
+This project has been created using following blockchain components:
+
+* Truffle v5.4.30
+* Solidity 0.5.1
+* Node 14.17.6
+* web3.js 1.5.3
+
+To build the application, you can run following commands: `npm install` `truffle compile`
+
+
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
