@@ -27,8 +27,15 @@ This project has been created using following blockchain components:
 * Node 14.17.6
 * web3.js 1.5.3
 
-To build the application, you can run following commands: `npm install` `truffle compile`
+To build the application, you can run following commands: `npm install`
 
+## Development
+
+For development, run following commands:
+
+`truffle compile
+truffle migrate
+truffle test`
 
 
 # Project Resources
