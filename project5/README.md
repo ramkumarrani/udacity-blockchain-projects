@@ -89,6 +89,10 @@ The unit test has cleared all 3 components and its results are:
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/AllUnitTest.PNG" />
 
+## Minting 10 Tokens
+
+Stopped here... Ramkumar Rani
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
