@@ -77,6 +77,8 @@ transaction hash:    0x45eec427ae5a0dab28b40cb7421b21d506fecda4f2dbf65035b9a8c57
 contract address:    0xe93d81C94e2f431061b8DA1D4D6C3d5A67d5510E
 account:             0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47
 ```
+URLs:
+(https://rinkeby.etherscan.io/tx/0x24cf772dcbf83d51d61ed8445777bcf07e07a13a8ffc0622a234cc834b7edd46 "ERC721 Token")
 
 # Project Resources
 
