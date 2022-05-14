@@ -63,6 +63,7 @@ Deploying 'RRERC721Token'
 transaction hash:    0x24cf772dcbf83d51d61ed8445777bcf07e07a13a8ffc0622a234cc834b7edd46
 contract address:    0xAC03af1Bf77C0ab007ba553366E0f3267f6DA67F
 account:             0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47
+URL: https://rinkeby.etherscan.io/tx/0x24cf772dcbf83d51d61ed8445777bcf07e07a13a8ffc0622a234cc834b7edd46
 
 Deploying 'Verifier'
 --------------------
