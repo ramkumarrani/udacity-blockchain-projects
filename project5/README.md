@@ -81,6 +81,14 @@ URLs:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[Verifier](https://rinkeby.etherscan.io/tx/0x7c176887d3fa29611c72e6e6d6f9e10efd2cd2cdc55fb1c2ecb31a553d24c63a)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;[SolnSquareVerifier](https://rinkeby.etherscan.io/tx/0x45eec427ae5a0dab28b40cb7421b21d506fecda4f2dbf65035b9a8c57978b479)
 
+## Unit Test Results
+
+You can run unit test using `truffle test`.  This will run unit test for 3 components: `ERC721 Token`, `Verifier`, and `SolnSquareVerifier`.  
+
+The unit test has cleared all 3 components and its results are:
+
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/AllUnitTest.PNG" />
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
