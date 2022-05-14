@@ -37,6 +37,18 @@ For development, run following commands:
 `truffle migrate`<br />
 `truffle test`
 
+## Generate ZoKrates verifier.sol
+
+* Run following docker command: `docker run -v <project path>:/home/zokrates/code -it /zokrates/zokrates /bin/bash`
+* Create base program: square.code 
+* Compile program: ./zokrates compile -i square.code
+* Generate trusted set up: ./zokrates setup
+* Compute witness: ./zokrates compute-witness -a 2 4
+* Generate proof: ./zokrates generate-proof
+* Export verifier: ./zokrates export-verifier
+* rename verifier.sol to Verifier.sol
+* copy Verifier.sol to contracts folder: eth-contracts/contracts
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
