@@ -33,9 +33,11 @@ To build the application, you can run following commands: `npm install`
 
 For development, run following commands:
 
-`truffle compile`<br />
-`truffle migrate`<br />
-`truffle test`
+```
+truffle compile
+truffle migrate
+truffle test
+```
 
 ## Generate ZoKrates verifier.sol
 
