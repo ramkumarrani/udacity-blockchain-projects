@@ -58,7 +58,7 @@ module.exports = {
     // Useful for deploying to a public network.
     // NB: It's important to wrap the provider as a function.
     rinkeby: {  
-    provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/52e18f85e4c14196acc24099de5ce295`),
+    provider: () => new HDWalletProvider(mnemonic, `https://rinkeby.infura.io/v3/52e....`),
     network_id: 4,       // Rinkeby's id
     },
     // Useful for private networks
