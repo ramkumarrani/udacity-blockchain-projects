@@ -1,4 +1,4 @@
-# Udacity Blockchain Capstone - Ethereum Housing Marketplace Dapp
+# Ethereum Real Estate Marketplace Dapp
 
 The capstone will build upon the knowledge you have gained in the course in order to build a decentralized housing product. 
 
