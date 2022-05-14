@@ -7,6 +7,10 @@ This is a Decentralized App used to manage Real Estate from house owner's point 
 3. Smart Contract is used to manage property ownershp
 4. NFT marketplace OpenSea is used to list and transfer the properties
 
+# Project Structure
+
+This repository consists of:
+
 
 
 # Project Resources
