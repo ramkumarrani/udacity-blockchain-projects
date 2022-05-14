@@ -33,10 +33,8 @@ To build the application, you can run following commands: `npm install`
 
 For development, run following commands:
 
-<ul>
-<li>Line 1</li>
-<li>Line 2</li>
-</ul>
+`truffle compile`<br />
+`truffle migrate`
 
 # Project Resources
 
