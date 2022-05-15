@@ -98,7 +98,7 @@ cd eth-contracts
 node mintTokens.js 10
 ```
 
-Output:<br><br>
+Output:<br>
 ```
 Token 0 minted, Tx Hash 0x8bc987a027351a7fe7b0b8e5030902dffb68c2405f7504b491e3e2260496c893
 Token 1 minted, Tx Hash 0x4fa10af54fd1e905b9ce832f67579d3c689e1d0daf504bc4f54b4e3f4e08bbe8
@@ -111,8 +111,7 @@ Token 7 minted, Tx Hash 0x1245a02c81a972b16616196c5da8f49da6a1d77846c752bc92fa5f
 Token 8 minted, Tx Hash 0x473553e4a0de0c1e7fca1fc9ee1d119c665e373d9f5d2967d378b2b5b2268005
 Token 9 minted, Tx Hash 0xfdf49ffe13636196916041fa938d323d2959ddca3d0336f2d8360fde7dea7999
 ```
-<br>
-<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/tokensMinted-10.PNG" />
+
 
 # Project Resources
 
