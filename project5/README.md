@@ -114,7 +114,7 @@ Token 9 minted, Tx Hash 0xfdf49ffe13636196916041fa938d323d2959ddca3d0336f2d8360f
 
 ## OpenSea Market Place - Listing Tokens and Making Transfer
 
-Once minted, you can list the tokens here: https://rinkeby.opensea.io/get-listed/step-two
+Once tokens are minted, you can list them here: https://rinkeby.opensea.io/get-listed/step-two
 
 Out of the 10 tokens minted by address 0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47, five were listed for sale and were bought by address 0x1D1609fe1f37E9B5Bb05799f746524d8Ee9350F1.
 
