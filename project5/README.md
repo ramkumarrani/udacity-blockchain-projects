@@ -1,6 +1,6 @@
 # Ethereum Real Estate Marketplace Dapp
 
-This is a Decentralized App used to manage Real Estate from house owner's point of view. Broadly, this project consists of following major steps:
+This is a Decentralized App used to manage Real Estate transactions. Broadly, this project consists of following major steps:
 
 1. Every property is minted as a ERC721 NFT
 2. Property deed (title) privacy is managed using zero-proof concept, utilizing zk-SNARK built on ZoKrates
