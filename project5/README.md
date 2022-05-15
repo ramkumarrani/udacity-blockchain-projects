@@ -120,6 +120,11 @@ Out of the 10 tokens minted by address 0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c4
 
 <img src = "https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/OpenSea-Sold.PNG" />
 
+## OpenSea MarketPlace Storefront link
+
+&nbsp;&nbsp;&nbsp;&nbsp;[Original Minter](https://testnets.opensea.io/assets/unidentified-contract-8pzclrkcqf)<br>
+&nbsp;&nbsp;&nbsp;&nbsp;[NFT Buyer](https://testnets.opensea.io/RR-RealEstate-MarketPlace)<br>
+
 # Project Resources
 
 * [Remix - Solidity IDE](https://remix.ethereum.org/)
