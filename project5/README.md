@@ -118,7 +118,7 @@ Once tokens are minted, you can list them here: https://rinkeby.opensea.io/get-l
 
 Out of the 10 tokens minted by address 0x75A6D4e12A7ec11a3C6A7C5361DA50Dadc196c47, five were listed for sale and were bought by address 0x1D1609fe1f37E9B5Bb05799f746524d8Ee9350F1.
 
-
+<img src = "https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/OpenSea-Sold.PNG" />
 
 # Project Resources
 
