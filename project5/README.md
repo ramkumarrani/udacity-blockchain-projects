@@ -83,9 +83,9 @@ URLs:<br>
 
 ## Unit Test Results
 
-You can run unit test using `truffle test`.  This will run unit test for 3 components: `ERC721 Token`, `Verifier`, and `SolnSquareVerifier`.  
+You can run unit test using `truffle test`.  This will run unit tests for 3 components: `ERC721 Token`, `Verifier`, and `SolnSquareVerifier`.  
 
-The unit test has cleared all 3 components and its results are:
+The unit test has passed all 3 components and its results are:
 
 <img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/AllUnitTest.PNG" />
 
