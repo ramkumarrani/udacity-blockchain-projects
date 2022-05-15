@@ -99,7 +99,7 @@ node mintTokens.js 10
 ```
 
 Output:
-<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/tokensMinted-10.txt" />
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/TestERC721Mintable.PNG" />
 
 # Project Resources
 
