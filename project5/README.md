@@ -100,12 +100,12 @@ node mintTokens.js 10
 
 Output:<br>
 ```
-Token 0 minted, Tx Hash 0x8bc987a027351a7fe7b0b8e5030902dffb68c2405f7504b491e3e2260496c893
-Token 1 minted, Tx Hash 0x4fa10af54fd1e905b9ce832f67579d3c689e1d0daf504bc4f54b4e3f4e08bbe8
-Token 2 minted, Tx Hash 0x2110a81b3e5eaba7b9d80141216861118921fa4c6cb8de6406295d8d0cf57269
-Token 3 minted, Tx Hash 0x048b37c908416aab64e0d0480c4672f85e54f332c608e0a2f74a03c97d00d7e2
-Token 4 minted, Tx Hash 0x52a68a6836c5251d0d8c7c9469877490a1384b72d06b5f80c6e5f6f0457b2170
-Token 5 minted, Tx Hash 0x33540540a3bc7f0fa3f72a08d77e0ec0b41a7d8e26d8bdc262c9acad46173b74
+Token 0 minted, Tx Hash 0x6e195a81a22b40172202fa57dbc60295b8753fc65ac1e77f4ea4a75e6ce75495   
+Token 1 minted, Tx Hash 0x7b9ee003de29c49f8f93ba4b099a9fd8cde4ee2850cd73b873a5ba1f7fb4ba92  
+Token 2 minted, Tx Hash 0x969c165e7c5a54d729887573021713eeaa2e7f60432f9bb5bbe5b2f72e5d0730 
+Token 3 minted, Tx Hash 0x753a683f8995b61ff1d89cc0bac9dec2f7fa40632f0bda63b5f07ceab35930d1
+Token 4 minted, Tx Hash 0x6ec82f36c7ecb1552e2c330c92ae83f4e0d8a44de8fdf41bdd40ab556eaf1491
+Token 5 minted, Tx Hash 0xadf85fb039155936064f88f58a36c4dcdffa94020c565f97d3dae4794468f973
 Token 6 minted, Tx Hash 0xb4abe462e73cb3a4625c0fbd88c2372170eb1ba771d702b5cca033ae420e5518
 Token 7 minted, Tx Hash 0x1245a02c81a972b16616196c5da8f49da6a1d77846c752bc92fa5f4eae6932d3
 Token 8 minted, Tx Hash 0x473553e4a0de0c1e7fca1fc9ee1d119c665e373d9f5d2967d378b2b5b2268005
