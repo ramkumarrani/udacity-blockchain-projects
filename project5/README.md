@@ -98,8 +98,8 @@ cd eth-contracts
 node mintTokens.js 10
 ```
 
-Output:
-<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/TestERC721Mintable.PNG" />
+Output:<br>
+<img src="https://github.com/ramkumarrani/udacity-blockchain-projects/blob/master/project5/eth-contracts/output/RinkebyDeployment.txt" />
 
 # Project Resources
 
