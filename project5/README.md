@@ -112,6 +112,8 @@ Token 8 minted, Tx Hash 0x473553e4a0de0c1e7fca1fc9ee1d119c665e373d9f5d2967d378b2
 Token 9 minted, Tx Hash 0xfdf49ffe13636196916041fa938d323d2959ddca3d0336f2d8360fde7dea7999
 ```
 
+You can list the tokens by going to: https://rinkeby.opensea.io/get-listed/step-two
+
 
 # Project Resources
 
